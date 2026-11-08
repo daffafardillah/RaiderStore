@@ -3,3 +3,9 @@
 build/
 local.properties
 .idea
+
+backend/.env
+backend/vendor/
+backend/databases/*
+!backend/databases/.gitkeep
+.idea/
